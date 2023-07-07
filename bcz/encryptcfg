@@ -1,1 +1,1 @@
-trojan://647161fc-c391-4ea3-b261-f1a76db37d69@bgptw5.cnamazon.sbs:443/?type=tcp&security=tls&sni=tlsdata.cnamazon.sbs#%F0%9F%87%B9%F0%9F%87%BC%20BGP%7C%E5%8F%B0%E6%B9%BE5
+hysteria://152.69.208.195:18209?auth=d50157&peer=www.bing.com&insecure=1&upmbps=10&downmbps=50&alpn=h3&obfs=none&protocol=udp#hysteria
